@@ -57,7 +57,3 @@ Also included:
 3. Open the project in an IDE with Swing GUI Designer support (e.g., IntelliJ IDEA).
 4. Ensure `flatlaf-3.1.1.jar` and the MySQL Connector/J driver are on the classpath.
 5. Run [src/Main.java](src/Main.java).
-
-## Author
-
-Davin Neilson — 2602119133
